@@ -1,3 +1,3 @@
 # test3
 
-[link](people.md)
+[link](/people.md)
