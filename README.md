@@ -1,5 +1,5 @@
 # test3
 
-[link](../peopleNav/)
+[link](/peopleNav/)
 
 [aloy link](/people/Aloy.md)
