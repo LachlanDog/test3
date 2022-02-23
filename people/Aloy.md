@@ -1,4 +1,5 @@
 ---
+tags: aloy
 ---
 
 # Aloy
