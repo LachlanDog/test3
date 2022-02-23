@@ -2,4 +2,4 @@
 
 [link](../peopleNav/)
 
-[aloy link](../people/Aloy.md)
+[aloy link](/people/Aloy.md)
